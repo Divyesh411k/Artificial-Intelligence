@@ -15,24 +15,14 @@ Artificial Intelligence is a fascinating field that aims to create intelligent s
 
 - Machine Learning
 - Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- Reinforcement Learning
-- Robotics
 - Expert Systems
 - Knowledge Representation
-- And much more!
 
 ## Folder Structure
-
 The repository is organized into different directories, each focusing on a specific area or topic within AI. Here's a brief overview of the folder structure:
 
 - **Machine Learning**: Contains implementations of various machine learning algorithms and models.
 - **Deep Learning**: Includes projects related to deep neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and other deep learning architectures.
-- **NLP**: Covers natural language processing tasks such as sentiment analysis, text classification, language translation, and more.
-- **Computer Vision**: Contains projects related to image recognition, object detection, image generation, and related tasks.
-- **Reinforcement Learning**: Includes implementations of reinforcement learning algorithms for training agents to interact with environments and learn optimal policies.
-- **Robotics**: Covers projects related to robotics, including robot control, path planning, localization, and mapping.
 - **Expert Systems**: Includes implementations of expert systems and knowledge-based systems for decision-making and problem-solving.
 - **Utilities**: Contains utility scripts, helper functions, and miscellaneous tools useful for AI projects.
 
